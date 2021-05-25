@@ -1,0 +1,5 @@
+$ source-map-explorer dist/index.bundle.js --tsv --only-mapped --exclude-source-map
+Source	Size
+/Users/wiadu/Projects/learning-metro/node_modules/metro-runtime/src/polyfills/require.js	2000
+/Users/wiadu/Projects/learning-metro/src/index.js	28
+[EOLs]	4

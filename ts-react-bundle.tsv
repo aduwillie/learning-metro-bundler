@@ -1,0 +1,12 @@
+$ source-map-explorer dist/ts-react.bundle.js --tsv --only-mapped --exclude-source-map
+Source	Size
+/Users/wiadu/Projects/learning-metro/node_modules/react-dom/cjs/react-dom.production.min.js	118716
+/Users/wiadu/Projects/learning-metro/node_modules/react/cjs/react.production.min.js	6221
+/Users/wiadu/Projects/learning-metro/node_modules/scheduler/cjs/scheduler.production.min.js	4708
+/Users/wiadu/Projects/learning-metro/node_modules/metro-runtime/src/polyfills/require.js	2000
+/Users/wiadu/Projects/learning-metro/src/ts-react.tsx	1003
+/Users/wiadu/Projects/learning-metro/node_modules/object-assign/index.js	941
+/Users/wiadu/Projects/learning-metro/node_modules/react-dom/index.js	246
+/Users/wiadu/Projects/learning-metro/node_modules/react/index.js	39
+/Users/wiadu/Projects/learning-metro/node_modules/scheduler/index.js	39
+[EOLs]	11

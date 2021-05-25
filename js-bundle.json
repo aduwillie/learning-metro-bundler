@@ -1,0 +1,23 @@
+$ source-map-explorer dist/index.bundle.js --json --only-mapped --exclude-source-map
+{
+  "results": [
+    {
+      "bundleName": "dist/index.bundle.js",
+      "totalBytes": 2330,
+      "mappedBytes": 2028,
+      "eolBytes": 4,
+      "sourceMapCommentBytes": 44200,
+      "files": {
+        "/Users/wiadu/Projects/learning-metro/node_modules/metro-runtime/src/polyfills/require.js": {
+          "size": 2000
+        },
+        "/Users/wiadu/Projects/learning-metro/src/index.js": {
+          "size": 28
+        },
+        "[EOLs]": {
+          "size": 4
+        }
+      }
+    }
+  ]
+}
